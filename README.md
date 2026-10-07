@@ -17,6 +17,8 @@
 > 可以提交 **PR** 添加、修改
 
 - [123apps.com](https://123apps.com/cn/) - Web Apps by 123apps - 编辑、转换、创建
+- [practicalwebtools.com](https://practicalwebtools.com/) - Practical Web Tools - PDF 编辑/转换、图片/音频转换、200+ 计算器，全部本地处理
+  - Featured tools: [Compress Image](https://practicalwebtools.com/edit/compress-image), [Edit PDF Text](https://practicalwebtools.com/edit/edit-pdf-text), [Merge PDF](https://practicalwebtools.com/edit/merge-pdf)
 
   - Featured tools: [在线视频编辑器](https://online-video-cutter.com/cn/video-editor), [修剪音频](https://mp3cut.net/cn/), [Convert Word to PDF](https://pdf.io/cn/doc2pdf/)
 
